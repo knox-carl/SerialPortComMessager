@@ -1,0 +1,6 @@
+Author: MSDN, with slight changes made by CARL R. KNOX on 03APR2014.
+The SerialPortComMessager project creates a chat protocol between two computers connected via serial ports.
+
+This code was tested in Microsoft Visual Studio 2013 and can be run directly as a C# application in that IDE.
+
+MSDN source: http://msdn.microsoft.com/en-us/library/system.io.ports.serialport(v=vs.110).aspx
